@@ -1,4 +1,5 @@
 /**
+Hi everyone!
 The solution parses an input string and returns the integer result. The problem can be broken into three steps:
 
 1) Remove spaces at the start of the string.
